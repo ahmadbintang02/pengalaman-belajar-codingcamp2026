@@ -10,3 +10,9 @@ Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 38%)
 Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 50%)
 * Belajar dasar GitHub.
 * Studi kasus membuat repository dan melakukan perintah perintah dasar.
+
+**16 Februari 2026**<br>
+Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 100%)
+* Mempelajari fitur fitur yang sangat diperlukan
+* Mempelajari dasar dasar dan istilah istilah di GitHub
+* Menyelesaikan Ujian Akhir kelas untuk kemahiran diri.
